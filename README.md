@@ -47,11 +47,10 @@ he/she is presented with a 5-day forecast that displays the date, an icon repres
 <https://openweathermap.org/api>
 * Mozilla Global Objects:  
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects>
-* Font Awsome:  
+* Font Awesome:  
 <https://fontawesome.com/>
 
-
-![](imageScreenshot.png)
+![](image/Screenshot.png)
 
 
 
