@@ -39,14 +39,19 @@ he/she is presented with a 5-day forecast that displays the date, an icon repres
 
 **Resources:**
 
-* Bootstrap: <https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js>
-* jQuery:   <https://code.jquery.com/jquery.js>
-* OpenWeatherAPI:   <https://openweathermap.org/api>
-* Mozilla Global Objects:  <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects>
-* Font Awsome:  <https://fontawesome.com/>
+* Bootstrap: 
+<https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js>
+* jQuery:   
+<https://code.jquery.com/jquery.js>
+* OpenWeatherAPI:   
+<https://openweathermap.org/api>
+* Mozilla Global Objects:  
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects>
+* Font Awsome:  
+<https://fontawesome.com/>
 
 
-![](image/screenshot.png)
+![](imageScreenshot.png)
 
 
 
