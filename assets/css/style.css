@@ -7,20 +7,30 @@
 body {
     
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Roboto", Geneva, Tahoma, sans-serif;
     
 }
-h3{
+.jumbotron {
+    color:#fff;
+    
+    
+}
+h3 {
     font-weight: bold;
+    
 }
 .forecast{
     
     font-size: 0.9em;
 }
-span{
+span {
     font-size: 1em;
 }
-li:hover{
+.list-group-item {
+    margin-top: 3px;
+    border-bottom: none;
+}
+li:hover {
     background-color: rgb(209, 225, 243);
     text-decoration: underline;
 }
