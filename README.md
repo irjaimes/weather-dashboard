@@ -50,7 +50,7 @@ he/she is presented with a 5-day forecast that displays the date, an icon repres
 * Font Awesome:  
 <https://fontawesome.com/>
 
-![](assets/image/Screenshot.png)
+![](assets/image/Screen-shot.png)
 
 
 
